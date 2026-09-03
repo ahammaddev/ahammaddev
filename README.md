@@ -21,11 +21,11 @@
 
 ---
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=heyahammad&theme=transparent&hide_border=true"></p>
+<p align="center"><img src="[https://streak-stats.demolab.com?user=heyahammad&theme=transparent&hide_border=true](https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ahammaddev&theme=whatsapp-dark2" alt="GitHub Streak)"></p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=heyahammad&bg_color=1a1b27&color=70a5fd&line=394b70&point=16161e&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+</p> -->
 
 ---
 
