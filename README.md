@@ -1,4 +1,4 @@
-![Banner](assets/bannerdev.jpg)
+![Banner](assets/animated_card.svg)
 
 ### Visit me
 
@@ -13,7 +13,7 @@
 ### Languages & Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,python,js,java,swift,flutter,react,nodejs,kotlin" height="50"/>
+  <img src="https://skillicons.dev/icons?i=dart,kotlin,swift,java,python,js,flutter,react,nodejs" height="50"/>
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,postman,androidstudio,vscode,git,github,figma,xd" height="50"/>
